@@ -8,11 +8,12 @@ import { AngularFireDatabaseModule, AngularFireDatabase } from 'angularfire2/dat
 import { AngularFireAuthModule } from 'angularfire2/auth';
 
 export const firebaseConfig = {
-  apiKey: "xxxxxxxxxx",
-  authDomain: "your-domain-name.firebaseapp.com",
-  databaseURL: "https://your-domain-name.firebaseio.com",
-  storageBucket: "your-domain-name.appspot.com",
-  messagingSenderId: '<your-messaging-sender-id>'
+  apiKey: "AIzaSyCP1HtrbReWHgOFQDMv3B8_WVyOCc18UJg",
+  authDomain: "nmd-cms.firebaseapp.com",
+  databaseURL: "https://nmd-cms.firebaseio.com",
+  projectId: "nmd-cms",
+  storageBucket: "nmd-cms.appspot.com",
+  messagingSenderId: "84102007611"
 };
 @NgModule({
   declarations: [

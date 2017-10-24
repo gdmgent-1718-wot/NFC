@@ -34,3 +34,11 @@ cd nfc-app
 ng serve --open
 ```
 The `ng serve` command launches the server, watches your files, and rebuilds the app as you make changes to those files. Using the `--open` (or just `-o`) option will automatically open your browser on `http://localhost:4200/`.
+
+### Firebase
+
+Install firebase en angularfire2:
+
+```
+npm install firebase angularfire2 --save
+```

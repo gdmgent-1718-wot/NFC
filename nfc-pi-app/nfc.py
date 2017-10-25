@@ -42,6 +42,15 @@ fb_db_root = fb_db.reference()
 checkins_ref = fb_db_root.child('checkins')
 if(checkins_ref.get() == None):
     checkins_ref.set({})
+    
+
+persons_ref = fb_db_root.child('persons')
+if(persons_ref.get() == None):
+    persons_ref.set({})
+    
+def __createStudents():
+    
+    
 
 # Thread
 while True:

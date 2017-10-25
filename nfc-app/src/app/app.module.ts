@@ -7,20 +7,17 @@ import { AngularFireModule } from 'angularfire2';
 import { AngularFireDatabaseModule, AngularFireDatabase } from 'angularfire2/database';
 import { AngularFireAuthModule } from 'angularfire2/auth';
 
-export const firebaseConfig = {
-  apiKey: "AIzaSyCP1HtrbReWHgOFQDMv3B8_WVyOCc18UJg",
-  authDomain: "nmd-cms.firebaseapp.com",
-  databaseURL: "https://nmd-cms.firebaseio.com",
-  projectId: "nmd-cms",
-  storageBucket: "nmd-cms.appspot.com",
-  messagingSenderId: "84102007611"
-};
+import { environment } from 'environments/environment';
+
 @NgModule({
   declarations: [
     AppComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AngularFireModule.initializeApp(environment.firebase, 'nmd-cms'),
+    AngularFireDatabaseModule,
+    AngularFireAuthModule
   ],
   providers: [],
   bootstrap: [AppComponent]

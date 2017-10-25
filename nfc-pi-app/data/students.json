@@ -1,0 +1,158 @@
+{
+    "students": [
+        {
+            "firstname": "Sander",
+            "surname": "Van Damme",
+            "email_school": "sander.vandamme@student.arteveldehs.be",
+            "email_private": "mrclotion@hotmail.com",
+            "gsm": "",
+            "profile_image_url": "http://www.angry-moustache.com/angrymoustache/images/uploads/670348031260073_avatar.jpg",
+            "tags": "Javascript, VueJS, PhP, Laravel, C#, Lua, Python",
+            "moto": "I didn't ask for this",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Thomas",
+            "surname": "Coppein",
+            "email_school": "thomcopp@student.arteveldehs.be",
+            "email_private": "thomas_coppein@hotmail.com",
+            "gsm": "471450238",
+            "profile_image_url": "https://imgur.com/a/n8Pl7",
+            "tags": "HTML, CSS, Adobe, iOS, Windows, Android, Wordpress, Javascript, PHP",
+            "moto": "Scientia potentia est",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Lode",
+            "surname": "Muylaert",
+            "email_school": "lodemuyl@student.arteveldehs.be",
+            "email_private": "lode.muylaert@hotmail.com",
+            "gsm": "496060185",
+            "profile_image_url": "http://lodemuylaert.be/img/muylie.png",
+            "tags": "vue, angular, react, php, python, js, html, css, sass, autocad, c#, laravel, articulate storyline",
+            "moto": "just do it",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Niels",
+            "surname": "Cappelle",
+            "email_school": "nielcapp1@student.arteveldehs.be",
+            "email_private": "cappelleniels@hotmail.com",
+            "gsm": "497227072",
+            "profile_image_url": "https://nielcappblog.files.wordpress.com/2016/02/niels.jpg?w=200&h=200&crop=1",
+            "tags": "HTML, CSS, SASS, JS, jQuery, PHP, Laravel, Dotnet, Wordpress, Vue.js, Node.js",
+            "moto": "Luister goed naar wat niet gezegd wordt",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Jef",
+            "surname": "Roosens",
+            "email_school": "jef.roosens@student.arteveldehs.be",
+            "email_private": "jef.roosens@gmail.com",
+            "gsm": null,
+            "profile_image_url": "https://avatars0.githubusercontent.com/u/11645599?s=460&v=4",
+            "tags": "TBD",
+            "moto": "Do More!",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Daan",
+            "surname": "Meert",
+            "email_school": "daanmeer@student.arteveldehs.be",
+            "email_private": "daanmeert94@gmail.com",
+            "gsm": "472842024",
+            "profile_image_url": "https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/16299114_1549808958392596_6141678853893549016_n.jpg?oh=b6aad51967c0dbf3e1bd2981488ab3a3&oe=5A7165D7",
+            "tags": "Adobe Illustrator, Adobe Experience Design, Adobe Photoshop, Adobe After Effects, Adobe Premiere, HTML, JQuery, SCSS, PHP, Javascript, .Net, C#, Vue.js",
+            "moto": "werken, werken, werken",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Adriaan",
+            "surname": "Glibert",
+            "email_school": "adriglib@student.arteveldehs.be",
+            "email_private": "adriaanglibert@hotmail.com",
+            "gsm": "32471659145",
+            "profile_image_url": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAuoAAAAJDQ0ODRmN2RjLTZhNTEtNGFiYS1hM2RkLWRiNjQ5OGZlOThhYw.jpg",
+            "tags": "HTML, CSS, JS, PHP, Laravel, WordPress, Drupal, ASP.NET, Adobe CC, Vue.js",
+            "moto": "Work harder",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Basiel",
+            "surname": "Smitz",
+            "email_school": "basiel.smitz@student.arteveldehs.be	",
+            "email_private": "basiel.smitz@gmail.be",
+            "gsm": "472767746",
+            "profile_image_url": "https://avatars3.githubusercontent.com/u/14765853?s=460&v=4",
+            "tags": "HTML, CSS, JS, jQuery, Vue.js, PHP, Laravel, Wordpress, Drupal",
+            "moto": "Dat zou moeten lukken",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Ismail",
+            "surname": "Kutlu",
+            "email_school": "ismail.kutlu@student.arteveldehs.be",
+            "email_private": "ismail.kutlu94@gmail.com",
+            "gsm": "488445629",
+            "profile_image_url": "https://avatars2.githubusercontent.com/u/22441648?s=400&u=495352f94197cc19783b5dae2c15b6c3f94425fa&v=4",
+            "tags": "Frameworks, html, css, js, php, design",
+            "moto": "Make code beautiful with design!",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Lotte",
+            "surname": "Verwerft",
+            "email_school": "lotte.verwerft@student.arteveldehs.be",
+            "email_private": "lottedientjelieve@gmail.com",
+            "gsm": "488445629",
+            "profile_image_url": "https://avatars3.githubusercontent.com/u/14766250?s=460&v=4",
+            "tags": "Symfony, Angular 4, Ionic 3, Javascript",
+            "moto": "Work work work",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Ilona",
+            "surname": "Zancaner",
+            "email_school": "ilona.zancaner@student.arteveldehs.be",
+            "email_private": "zancaneri@gmail.com",
+            "gsm": "498055032",
+            "profile_image_url": "https://avatars3.githubusercontent.com/u/14766056?s=460&v=4",
+            "tags": "HTML, CSS, Javascript, Laravel, CakePHP, VueJS, Drupal, Wordpress",
+            "moto": "Robot in disguise",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Brent",
+            "surname": "De Roeck",
+            "email_school": "brendero@student.arteveldehs.be",
+            "email_private": "roeckie_brent@live.be",
+            "gsm": "493792178",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/876409118092922880/d_wG8GTC.jpg",
+            "tags": "php,.net,laravel,javascript,html,css,python,angular,node.js,vue.js",
+            "moto": "my name jeff",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Pieter",
+            "surname": "Vleminckx",
+            "email_school": "pietvlem@student.arteveldehs.be",
+            "email_private": "pieter.vlem@gmail.com",
+            "gsm": null,
+            "profile_image_url": "https://s-media-cache-ak0.pinimg.com/originals/27/d6/23/27d6237ca3cbceb6a0b3e5882e4929d1.jpg",
+            "tags": "html,css,sass,javascript,jquerry,vuejs,php,laravel,c#,...",
+            "moto": "I’m not lazy, I’m energy efficient",
+            "mifare-uid": ""
+        },
+        {
+            "firstname": "Julien",
+            "surname": "Lemoine",
+            "email_school": "julilemo@student.arteveldehs.be",
+            "email_private": "julienlemoine93@gmail.com",
+            "gsm": "470950448",
+            "profile_image_url": "http://lodemuylaert.be/img/julien.png",
+            "tags": "HTML5, CSS3, JavaScript, jQuery, PHP, SQL, C#, ASP.NET, WordPress, Vue.js, Jekyll, Laravel",
+            "moto": "Just Do It",
+            "mifare-uid": ""
+        }
+    ]
+}

@@ -42,6 +42,9 @@ Install firebase en angularfire2:
 ```
 npm install firebase angularfire2 --save
 
+Tags from Students
+------------------
+
 Detected NFC Tag UID: 'E2E2111E'
 Detected NFC Tag UID: 'F3EE021E'
 Detected NFC Tag UID: '7A77021E'

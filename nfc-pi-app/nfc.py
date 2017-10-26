@@ -19,6 +19,7 @@ Resources:
 # Standard Python imports
 import logging
 import time
+import json
 
 # Mifare imports
 import nxppy
@@ -42,6 +43,17 @@ fb_db_root = fb_db.reference()
 checkins_ref = fb_db_root.child('checkins')
 if(checkins_ref.get() == None):
     checkins_ref.set({})
+    
+def __createStudents():
+    with open('data/students.json') as json_file:
+        data = json.load(json_file)
+        for student in data['students']:
+            new_persons_ref = persons_ref.push()
+            new_persons_ref.set(student)
+
+persons_ref = fb_db_root.child('persons')
+if(persons_ref.get() == None):
+    __createStudents()
 
 # Thread
 while True:
